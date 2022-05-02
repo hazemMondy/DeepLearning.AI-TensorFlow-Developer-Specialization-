@@ -1,6 +1,4 @@
-*
-.txt
-.csv
-.tsv
-.json
-*/
+*.txt
+*.csv
+*.tsv
+*.json
